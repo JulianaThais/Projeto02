@@ -8,3 +8,4 @@ git remote add origin "link do repositório remoto" (linka o repositório local 
 git pull (atualiza o repositório local a partir do remoto)
 git clone "link do repositório" (clona o repositório do link para sua máquina)
 teste
+
